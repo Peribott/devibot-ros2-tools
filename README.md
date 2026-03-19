@@ -190,7 +190,7 @@ python3 -m pytest tests/ -v
 
 - **Website**: [www.jagnani.com](https://www.jagnani.com)
 - **Company**: [peribott.com](https://peribott.com)
-- **Articles**: [Why Most AMRs Fail in Production](https://amit.peribott.com/articles/amr-production-failure.html)
+- **Articles**: [Why Most AMRs Fail in Production](https://www.jagnani.com/articles/amr-production-failure.html)
 - **Contact**: amit@peribott.com
 
 ---
@@ -203,4 +203,4 @@ The devibot AMR platform firmware, dashboard, and fleet management system are pr
 
 ---
 
-*Built by [Amit Jagnani](https://amit.peribott.com) · Peribott Dynamic LLP · Hyderabad, India*
+*Built by [Amit Jagnani](https://www.jagnani.com) · Peribott Dynamic LLP · Hyderabad, India*
