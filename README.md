@@ -188,7 +188,7 @@ python3 -m pytest tests/ -v
 
 ## Related
 
-- **Website**: [amit.peribott.com](https://amit.peribott.com)
+- **Website**: [amit.peribott.com](https://www.jagnani.com)
 - **Company**: [peribott.com](https://peribott.com)
 - **Articles**: [Why Most AMRs Fail in Production](https://amit.peribott.com/articles/amr-production-failure.html)
 - **Contact**: amit@peribott.com
