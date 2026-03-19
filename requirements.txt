@@ -1,0 +1,16 @@
+# devibot-ros2-tools requirements
+# Install with: pip3 install -r requirements.txt --break-system-packages
+
+# Core — required for packet decoder and QoS profiles
+# rclpy is provided by ROS2 installation, not pip
+
+# Optional — required for live UART demo
+pyserial>=3.5
+
+# Testing
+pytest>=7.0
+pytest-cov>=4.0
+
+# Development
+ruff>=0.1.0       # Linting
+mypy>=1.0         # Type checking

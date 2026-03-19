@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.so
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ROS2 build artifacts
+install/
+log/
