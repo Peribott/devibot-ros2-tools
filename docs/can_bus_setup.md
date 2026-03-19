@@ -90,7 +90,7 @@ void HAL_FDCAN_RxFifo0Callback(...) {
 }
 ```
 
-See [freertos-isr-mutex article](https://amit.peribott.com/articles/freertos-isr-mutex.html).
+See [freertos-isr-mutex article](https://www.jagnani.com/articles/freertos-isr-mutex.html).
 
 ---
 *Peribott Dynamic LLP · [peribott.com](https://peribott.com)*
